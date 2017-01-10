@@ -1,0 +1,166 @@
+(supertux-savegame
+  (version 1)
+  (title "Icyisland (2/30)")
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 126)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("worlds"
+      ("levels/world1/worldmap.stwm"
+        ("levels"
+          ("01 - Welcome to Antarctica.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 52)
+              (secrets-found 0)
+              (coins-collected-total 105)
+              (secrets-found-total 1)
+              (time-needed 304.265686)
+              (badguys-killed 12)
+              (badguys-killed-total 14)
+            )
+            (solved #t)
+          )
+          ("intro.stl"
+            (perfect #f)
+            (solved #t)
+          )
+          ("15 - Under the Ice.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("23 - The Escape.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("12 - Into the Stars.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("08 - Stone Cold.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("bonus.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("04 - Tobgle Road.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("27 - No More Mr Ice Guy.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("26 - The Castle of Nolok.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("Fork_in_the_Road.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("25 - Arctic Ruins.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("10 - 23rd Airborne.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("24 - The Shattered Bridge.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("05 - The Somewhat Smaller Bath.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("19 - Miyamoto Monument.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("06 - The Frosted Fields.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("09 - Grumbels Sense of Snow.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("16 - Living in a Fridge.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("11 - Night Chill.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("21 - A Path in the Clouds.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("18 - Ice in the Hole.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("20 - End of the Tunnel.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("14 - Entrance to the Cave.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("13 - Above the Arctic Skies.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("17 - Or is it just me.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("03 - Via Nostalgica.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("07 - Oh No More Snowballs.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("02 - The Journey Begins.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("22 - A Mysterious House of Ice.stl"
+            (perfect #f)
+            (solved #f)
+          )
+        )
+        ("tux"
+          (y 5)
+          (x 4)
+          (back "south")
+        )
+        ("statistics"
+          (coins-collected 52)
+          (secrets-found 0)
+          (coins-collected-total 105)
+          (secrets-found-total 1)
+          (time-needed 304.265686)
+          (badguys-killed 12)
+          (badguys-killed-total 14)
+        )
+      )
+    )
+    (underground #f)
+  )
+)

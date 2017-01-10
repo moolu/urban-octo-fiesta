@@ -1,0 +1,121 @@
+(supertux-savegame
+  (version 1)
+  (title "Bonus Island I (0/22)")
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 100)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("worlds"
+      ("levels/bonus1/worldmap.stwm"
+        ("levels"
+          ("bonus-level1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("matr1x-level2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("torfi-level3.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("bonus-level3.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("wansti-level4.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("wansti-level3.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("wansti-level1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("abednego-level1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("thompson-level2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("torfi-level1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("matr1x-level3.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("abednego-level3.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("wansti-level5.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("wansti-level2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("bonus-level5.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("abednego-level2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("abednego-level4.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("bonus-level2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("matr1x-level1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("bonus-level4.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("thompson-level1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("torfi-level2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+        )
+        ("tux"
+          (y 4)
+          (x 35)
+          (back "north")
+        )
+        ("statistics"
+          (coins-collected 0)
+          (secrets-found 0)
+          (time-needed 0)
+          (badguys-killed 0)
+        )
+      )
+    )
+  )
+)

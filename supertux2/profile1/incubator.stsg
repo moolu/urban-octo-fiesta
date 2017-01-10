@@ -1,0 +1,141 @@
+(supertux-savegame
+  (version 1)
+  (title "Incubator Island (0/27)")
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 105)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("worlds"
+      ("levels/incubator/worldmap.stwm"
+        ("levels"
+          ("midnight_crossing.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("fall_kugelblitz.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("Angry Stone vs. YOU.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("primed.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("NewIcelevel3.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("pipeline.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("NewIcelevel5.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("NewIcelevel4.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("NewIcelevel2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("cherry_frosting.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("obstaclecourse.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("let_us_snow.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("not_so_long.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("ice_mountain.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("long.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("hungry_tux.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("jagged_path.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("Missingno.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("frozen_fissure.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("cube_garden.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("into_dark.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("NewIcelevel1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("mountain_climbing.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("Nice Ice.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("Castle #1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("in_the_mountain.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("SP33DRUN.stl"
+            (perfect #f)
+            (solved #f)
+          )
+        )
+        ("tux"
+          (y 14)
+          (x 40)
+          (back "north")
+        )
+        ("statistics"
+          (coins-collected 0)
+          (secrets-found 0)
+          (time-needed 0)
+          (badguys-killed 0)
+        )
+      )
+    )
+  )
+)

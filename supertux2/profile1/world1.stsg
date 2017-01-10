@@ -1,0 +1,202 @@
+(supertux-savegame
+  (version 1)
+  (title "Icyisland (5/30)")
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 602)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("worlds"
+      ("levels/world1/worldmap.stwm"
+        ("levels"
+          ("01 - Welcome to Antarctica.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 99)
+              (secrets-found 1)
+              (coins-collected-total 105)
+              (secrets-found-total 1)
+              (time-needed 121.109375)
+              (badguys-killed 6)
+              (badguys-killed-total 14)
+            )
+            (solved #t)
+          )
+          ("intro.stl"
+            (perfect #t)
+            ("statistics"
+              (coins-collected 0)
+              (secrets-found 0)
+              (coins-collected-total 0)
+              (secrets-found-total 0)
+              (time-needed 70.65625)
+              (badguys-killed 0)
+              (badguys-killed-total 0)
+            )
+            (solved #t)
+          )
+          ("15 - Under the Ice.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("23 - The Escape.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("12 - Into the Stars.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("08 - Stone Cold.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("bonus.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("04 - Tobgle Road.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 41)
+              (secrets-found 1)
+              (coins-collected-total 60)
+              (secrets-found-total 1)
+              (time-needed 110.53125)
+              (badguys-killed 19)
+              (badguys-killed-total 27)
+            )
+            (solved #t)
+          )
+          ("27 - No More Mr Ice Guy.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("26 - The Castle of Nolok.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("Fork_in_the_Road.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("25 - Arctic Ruins.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("10 - 23rd Airborne.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("24 - The Shattered Bridge.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("05 - The Somewhat Smaller Bath.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("19 - Miyamoto Monument.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("06 - The Frosted Fields.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("09 - Grumbels Sense of Snow.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("16 - Living in a Fridge.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("11 - Night Chill.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("21 - A Path in the Clouds.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("18 - Ice in the Hole.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("20 - End of the Tunnel.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("14 - Entrance to the Cave.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("13 - Above the Arctic Skies.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("17 - Or is it just me.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("03 - Via Nostalgica.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 35)
+              (secrets-found 0)
+              (coins-collected-total 47)
+              (secrets-found-total 0)
+              (time-needed 120.484375)
+              (badguys-killed 27)
+              (badguys-killed-total 30)
+            )
+            (solved #t)
+          )
+          ("07 - Oh No More Snowballs.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("02 - The Journey Begins.stl"
+            (perfect #f)
+            ("statistics"
+              (coins-collected 42)
+              (secrets-found 0)
+              (coins-collected-total 51)
+              (secrets-found-total 0)
+              (time-needed 45.89061737)
+              (badguys-killed 16)
+              (badguys-killed-total 18)
+            )
+            (solved #t)
+          )
+          ("22 - A Mysterious House of Ice.stl"
+            (perfect #f)
+            (solved #f)
+          )
+        )
+        ("tux"
+          (y 9)
+          (x 5)
+          (back "north")
+        )
+        ("statistics"
+          (coins-collected 217)
+          (secrets-found 2)
+          (coins-collected-total 263)
+          (secrets-found-total 2)
+          (time-needed 468.671875)
+          (badguys-killed 68)
+          (badguys-killed-total 89)
+        )
+      )
+    )
+    (underground #f)
+  )
+)

@@ -1,0 +1,73 @@
+(supertux-savegame
+  (version 1)
+  (title "Halloween 2014 (1/7)")
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 100)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("worlds"
+      ("levels/halloween2014/worldmap.stwm"
+        ("levels"
+          ("mound.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("halloween3.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("halloween1.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("pools.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("halloween2.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("outro.stl"
+            (perfect #f)
+            (solved #f)
+          )
+          ("intro.stl"
+            (perfect #t)
+            ("statistics"
+              (coins-collected 0)
+              (secrets-found 0)
+              (coins-collected-total 0)
+              (secrets-found-total 0)
+              (time-needed 0.046875)
+              (badguys-killed 0)
+              (badguys-killed-total 0)
+            )
+            (solved #t)
+          )
+        )
+        ("tux"
+          (y 12)
+          (x 11)
+          (back "west")
+        )
+        ("statistics"
+          (coins-collected 0)
+          (secrets-found 0)
+          (coins-collected-total 0)
+          (secrets-found-total 0)
+          (time-needed 0.046875)
+          (badguys-killed 0)
+          (badguys-killed-total 0)
+        )
+      )
+    )
+  )
+)

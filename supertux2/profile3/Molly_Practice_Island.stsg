@@ -1,0 +1,33 @@
+(supertux-savegame
+  (version 1)
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 4584)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("levelsets"
+      ("levels/Molly_Practice_Island"
+        ("levels"
+          ("level2.stl"
+            (solved #t)
+          )
+          ("level1.stl"
+            (solved #t)
+          )
+          ("level3.stl"
+            (solved #t)
+          )
+          ("level4.stl"
+            (solved #f)
+          )
+        )
+      )
+    )
+  )
+)

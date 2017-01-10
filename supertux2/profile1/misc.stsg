@@ -1,0 +1,27 @@
+(supertux-savegame
+  (version 1)
+  (tux
+    (bonus "none")
+    (fireflowers 0)
+    (iceflowers 0)
+    (airflowers 0)
+    (earthflowers 0)
+    (coins 2077)
+    (worldmap-sprite "images/worldmap/common/tux.sprite")
+    (last-worldmap "")
+  )
+  (state
+    ("levelsets"
+      ("levels/misc"
+        ("levels"
+          ("test.stl"
+            (solved #t)
+          )
+          ("menu.stl"
+            (solved #f)
+          )
+        )
+      )
+    )
+  )
+)

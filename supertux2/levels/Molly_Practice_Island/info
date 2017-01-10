@@ -1,0 +1,6 @@
+(supertux-level-subset
+  (title (_ "Molly Island"))
+  (description (_ "Youngster Training Island"))
+  (levelset #t)
+  (hide-from-contribs #f)
+)
